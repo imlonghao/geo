@@ -7,5 +7,5 @@ require (
 	github.com/coredns/coredns v1.8.1
 	github.com/ip2location/ip2location-go v8.3.0+incompatible
 	github.com/miekg/dns v1.1.35
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 )
