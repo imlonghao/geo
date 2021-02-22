@@ -8,5 +8,5 @@ require (
 	github.com/ip2location/ip2location-go v8.3.0+incompatible
 	github.com/ip2location/ip2location-go/v9 v9.0.0
 	github.com/miekg/dns v1.1.35
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 )
